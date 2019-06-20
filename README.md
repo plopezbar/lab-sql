@@ -39,7 +39,7 @@ Take a picture with your phone and send the image to yourself. The image will be
 
 1. **Create a database for this lab.** 
 
-	In BigQuery you will a 'dataset' called 'car_dealership'. You will create all tables under this.
+	In BigQuery you will find a 'dataset' called 'car_dealership'. You will create all tables under this.
 
 
 1. **Now, based on the database design you created, write the SQL query to create the tables and columns.** You will be using the `CREATE TABLE` statement for which you can find reference [here](https://cloud.google.com/bigquery/docs/reference/standard-sql/data-definition-language).
@@ -52,7 +52,7 @@ The purpose of *database seeding* is to provide some dummy data for an empty dat
 
 You'll be using the `INSERT INTO` statement for this purpose. You can some info [here](https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax).
 
-For your convenience, we provide you some example dummy data. These dummy data may not readily work with your database depending on how you have designed your database. You may need to change them to the appropriate form. You should only insert data into the table you have created. 
+For your convenience, we provide you with some example dummy data. These dummy data may not readily work with your database depending on how you have designed your database. You may need to change them to the appropriate form. You should only insert data into the table you have created. 
 
 ### Cars
 
