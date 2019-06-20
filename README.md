@@ -96,11 +96,11 @@ For your convenience, we provide you some example dummy data. These dummy data m
 
 ### Spare parts
 
-| Spare part ID | Manufacturer | Model | Description 
-| --- | --- | --- | --- | --- |
+| Spare part ID | Manufacturer | Model | Description |
+| --- | --- | --- | --- | 
 | 1 | Volkswagen | Tiguan | Left Back Door | 
-| 2 | Peugeot | Rifter | 2019 | Left Mirror |
-| 8 | Ford | Fusion | 2018 | Fridge |
+| 2 | Peugeot | Rifter | Left Mirror |
+| 8 | Ford | Fusion | Fridge |
 
 ## Bonus Challenge - Updating and Deleting Database Records
 
